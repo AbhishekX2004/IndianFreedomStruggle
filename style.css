@@ -50,7 +50,7 @@
 
 .card_container{
     animation: slide-right ease-in 15s;
-    animation-delay: 20s;
+    animation-delay: 15s;
     animation-iteration-count: 1;
     animation-fill-mode:backwards;
     display: flex;
